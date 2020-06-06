@@ -43,6 +43,3 @@ Question 5: What is the measure of error in my model?
 4. Linear Regression
 5. RMSE-- to calculate the errors in my model
 6. Plotting errors-- the guage homoscedasticity
-
-## Conclusion & Recommendations
-# dsc-mod-2-project-v2-1-online-ds-ft-120919-master
